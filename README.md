@@ -24,5 +24,13 @@ O objetivo é auxiliar investidores a tomar decisões informadas, automatizando 
 * `simulador_fii.xlsx`: Planilha principal com a ferramenta de simulação.
 * `/images/dashboard.png`: (Opcional) Uma captura de tela mostrando a interface final do simulador.
 
+* ## 📊 Visualização do Simulador
+
+Aqui está uma visão geral do dashboard principal do simulador de FIIs:
+
+![Dashboard do Simulador de FIIs](images/dashboard_fii.png)
+
+*Captura de tela mostrando a interface de entrada de dados e os resultados.*
+
 ---
 *Este desafio foi crucial para consolidar os conceitos de finanças e a capacidade de construir ferramentas práticas de análise.*
